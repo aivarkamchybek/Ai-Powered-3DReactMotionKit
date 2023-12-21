@@ -1,3 +1,9 @@
+## Getting Started
+
+# 3D T-Shirt Model Renderer
+
+Welcome to the 3D T-Shirt Model Renderer project! This cutting-edge application combines the power of ThreeJS, React Three Fiber, TailwindCSS, and Framer Motion to create an immersive and visually stunning 3D experience.
+
 ## Preview!
 <img width="478" alt="Screenshot 2023-02-26 at 2 57 16 PM" src="https://github.com/aivarkamchybek/Ai-Powered-3DReactMotionKit/assets/127583391/f1167ae8-fa90-4f4a-8581-8933a5b6ed48">
 <img width="478" alt="Screenshot 2023-02-26 at 2 57 16 PM" src="https://github.com/aivarkamchybek/Ai-Powered-3DReactMotionKit/assets/127583391/fa9457ef-1376-4272-aa29-2374f8f7176a">
@@ -5,11 +11,7 @@
 <img width="478" alt="Screenshot 2023-02-26 at 2 57 16 PM" src="https://github.com/aivarkamchybek/Ai-Powered-3DReactMotionKit/assets/127583391/36fbdbb0-73a3-4b04-926d-0761031d5dd8">
 <img width="478" alt="Screenshot 2023-02-26 at 2 57 16 PM" src="https://github.com/aivarkamchybek/Ai-Powered-3DReactMotionKit/assets/127583391/a48b15b0-67a7-4bd1-bc51-30d76f9f14e7">
 
-## Getting Started
 
-# 3D T-Shirt Model Renderer
-
-Welcome to the 3D T-Shirt Model Renderer project! This cutting-edge application combines the power of ThreeJS, React Three Fiber, TailwindCSS, and Framer Motion to create an immersive and visually stunning 3D experience.
 
 ## Technologies Used
 
